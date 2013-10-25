@@ -51,6 +51,6 @@ Future versions will include:
 - Cue list to control everything;
 - MIDI, DMX and OSC protocol to control Einstein, and to be controlled by Einstein.
 
-EinsteinVideoPlayer is a video server build in MAXJitter 
+EinsteinVideoPlayer is a video server build in MAXJitter
 http://cycling74.com
 
