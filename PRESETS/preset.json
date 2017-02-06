@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "example",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"outputWindow::number[4]" : [ 44 ],
+					"outputWindow::number[5]" : [ 609 ],
+					"outputWindow::number[6]" : [ 600 ],
+					"outputWindow::number[7]" : [ 800 ],
+					"outputWindow::toggle[1]" : [ 1 ],
+					"outputWindow::toggle[2]" : [ 0 ],
+					"videoplane_2::flonum[10]" : [ 0.0 ],
+					"videoplane_2::flonum[15]" : [ 2.2 ],
+					"videoplane_2::flonum[16]" : [ -1.64 ],
+					"videoplane_2::flonum[1]" : [ 0.009 ],
+					"videoplane_2::flonum[2]" : [ 1.0 ],
+					"videoplane_2::flonum[34]" : [ 1.0035 ],
+					"videoplane_2::flonum[35]" : [ 0.0 ],
+					"videoplane_2::flonum[36]" : [ 0.0 ],
+					"videoplane_2::flonum[3]" : [ 1.0 ],
+					"videoplane_2::flonum[4]" : [ 1.0 ],
+					"videoplane_2::flonum[5]" : [ 0.0 ],
+					"videoplane_2::flonum[6]" : [ -1.11 ],
+					"videoplane_2::flonum[7]" : [ 0.834 ],
+					"videoSourceDimensions::number" : [ 640 ],
+					"videoSourceDimensions::number[1]" : [ 480 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
